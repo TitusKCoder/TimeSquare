@@ -83,18 +83,18 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #004f2d;
+  background: #2B4141;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #a4c2a5;
+  background: #9BC4CB;
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #a4c2a5;
+  background: #9BC4CB;
   border-radius: 12px;
 }
 
@@ -172,7 +172,7 @@ html {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: #004f2d !important;
+    background-color: #2B4141 !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -188,7 +188,7 @@ html {
 }
 
 .navbar-nav .nav-link {
-  color: #a4c2a5 !important;
+  color: #9BC4CB !important;
   padding-right: 1rem !important;
   padding-left: 1rem !important;
 }
@@ -304,7 +304,7 @@ html {
 
 .home-content {
   padding: 3rem 0 0rem !important;
-  color: #004f2d;
+  color: #2B4141;
   text-align: left;
 }
 
@@ -337,7 +337,7 @@ html {
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #004f2d !important;
+  color: #2B4141 !important;
 }
 
 @media (max-width: 767px) {
@@ -369,7 +369,7 @@ html {
 }
 
 .home-about-description {
-  color: #004f2d !important;
+  color: #2B4141 !important;
   padding-top: 100px !important;
   padding-bottom: 20px !important;
   text-align: center;
@@ -403,7 +403,7 @@ html {
   text-align: center !important;
   font-size: 1.2em !important;
   line-height: 2em !important;
-  background: #004f2d !important;
+  background: #2B4141 !important;
   border-radius: 50% !important;
   transition: 0.5s !important;
   border: 1px solid #343e47;
@@ -512,7 +512,7 @@ html {
 }
 
 .project-card-view {
-  box-shadow: 0 4px 5px 3px #004f2d;
+  box-shadow: 0 4px 5px 3px #2B4141;
   color: #091e05;
   background-color: transparent;
   opacity: 0.9;
@@ -524,7 +524,7 @@ html {
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 4px 5px #004f2d !important;
+  box-shadow: 0 4px 4px 5px #2B4141 !important;
 }
 
 .blog-card {
@@ -555,7 +555,7 @@ html {
 .blog-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
-  box-shadow: 0 3px 3px 5px #004f2d !important;
+  box-shadow: 0 3px 3px 5px #2B4141 !important;
 }
 
 /* .card-img-top {
@@ -572,14 +572,14 @@ html {
 
 .btn-primary {
   color: #fff !important;
-  background-color: #a4c2a5 !important;
-  border-color: #a4c2a5 !important;
+  background-color: #9BC4CB !important;
+  border-color: #9BC4CB !important;
 }
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #a4c2a5 !important;
-  border-color: #a4c2a5 !important;
+  background-color: #9BC4CB !important;
+  border-color: #9BC4CB !important;
 }
 .btn:focus {
   outline: none !important;
@@ -638,7 +638,7 @@ html {
 
 .quote-card-view {
   border: none !important;
-  color: #004f2d !important;
+  color: #2B4141 !important;
   background-color: transparent !important;
 }
 
@@ -735,7 +735,7 @@ html {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #a4c2a5;
+  border: 2px solid #9BC4CB;
 }
 
 .like-item {
@@ -755,8 +755,8 @@ html {
 
 .like-btn:hover {
   transform: translateY(-2px) !important;
-  background-color: #a4c2a5 !important;
-  border-color: #a4c2a5 !important;
+  background-color: #9BC4CB !important;
+  border-color: #9BC4CB !important;
 }
 
 .animate-like {
