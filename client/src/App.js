@@ -5,13 +5,11 @@ import Home from "./components/Home/Home";
 import Login from "./components/Security/Login";
 import Signup from "./components/Security/signup";
 import Projects from "./components/Projects/Projects";
-import Footer from "./components/Footer";
 import Chat from "./components/Chat/Chat"
 
 import searchProfile from "./components/SearchProfile";
 
 import "./App.css";
-
 
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
